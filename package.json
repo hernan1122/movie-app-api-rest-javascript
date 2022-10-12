@@ -1,0 +1,19 @@
+{
+  "name": "movie-app-api-rest-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernan1122/movie-app-api-rest-javascript.git"
+  },
+  "author": "Axel Torrico <torricohernan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hernan1122/movie-app-api-rest-javascript/issues"
+  },
+  "homepage": "https://github.com/hernan1122/movie-app-api-rest-javascript#readme"
+}
